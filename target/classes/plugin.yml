@@ -1,0 +1,9 @@
+name: NoBreak
+main: net.bukkit_plugin.kojima1021.NoBreak.Main
+version: 0.0.1
+author: kojima1021
+commands:
+    nobreak:
+      description: nobreak
+      usage: |
+           /<command> - プラグイン詳細
